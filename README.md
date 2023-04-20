@@ -5,6 +5,6 @@ Aprendendo o básico
 
 Rode o comando python create_db.py
 
-##Para executar as querys
+## Para executar as querys
 
 Rode o comando python main.py
